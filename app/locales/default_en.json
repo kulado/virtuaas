@@ -3,18 +3,18 @@
     "pricing_aplicateca": {
       "anchor": "Pricing",
       "title": "VirtuaaS prices in Aplicateca",
-      "url": "@@config.base_path/en/prices-aplicateca/"
+      "url": "@@config.base_path/prices-aplicateca/"
     },
     "terms_aplicateca": {
       "anchor": "Legal",
       "title": "VirtuaaS legal terms in Aplicateca",
-      "url": "@@config.base_path/en/terms-aplicateca/"
+      "url": "@@config.base_path/terms-aplicateca/"
     }
   },
   "external": {
     "about": {
       "anchor": "About Us",
-      "url": "@@config.base_path/en/about-us/"
+      "url": "@@config.base_path/about-us/"
     },
     "aplicateca": {
       "anchor": "Login",
@@ -23,7 +23,7 @@
     },
     "apps": {
       "anchor": "Sample Apps",
-      "url": "@@config.base_path/en/showcase/"
+      "url": "@@config.base_path/showcase/"
     },
     "blog": {
       "anchor": "Blog",
@@ -32,11 +32,11 @@
     },
     "breakfasts": {
       "anchor": "A sucessful showcase!",
-      "url": "@@config.base_path/en/asis-and-gross/"
+      "url": "@@config.base_path/asis-and-gross/"
     },
     "company": {
       "anchor": "VirtuaaS bio",
-      "url": "@@config.base_path/en/company-bio/"
+      "url": "@@config.base_path/company-bio/"
     },
     "create_apps": {
       "anchor": "We create your app"
@@ -75,7 +75,7 @@
     },
     "hiring_developer": {
       "anchor": "Developer intern",
-      "url": "@@config.base_path/en/offer-trainee-developer/"
+      "url": "@@config.base_path/offer-trainee-developer/"
     },
     "hiring_frontend": {
       "anchor": "Frontend developer",
@@ -83,7 +83,7 @@
     },
     "hiring_marketing": {
       "anchor": "Marketing Internship",
-      "url": "@@config.base_path/en/offer-trainee-marketing/"
+      "url": "@@config.base_path/offer-trainee-marketing/"
     },
     "instagram": {
       "anchor": "Instagram",
@@ -91,7 +91,7 @@
     },
     "jobs": {
       "anchor": "We are hiring!",
-      "url": "@@config.base_path/en/jobs/"
+      "url": "@@config.base_path/jobs/"
     },
     "linkedin": {
       "anchor": "Linkedin",
@@ -111,15 +111,15 @@
     },
     "pricing": {
       "anchor": "Pricing",
-      "url": "@@config.base_path/en/prices/"
+      "url": "@@config.base_path/prices/"
     },
     "pricing_aplicateca": {
       "anchor": "Pricing",
-      "url": "@@config.base_path/en/prices-aplicateca/"
+      "url": "@@config.base_path/prices-aplicateca/"
     },
     "pwa": {
       "anchor": "Progressive Web Apps",
-      "url": "@@config.base_path/en/progressive-web-app/"
+      "url": "@@config.base_path/progressive-web-app/"
     },
     "social_media_btns": {
       "twitter": "https://twitter.com/VirtuaaSENG"
@@ -136,7 +136,7 @@
     },
     "tos": {
       "anchor": "Terms and Conditions",
-      "url": "@@config.base_path/en/terms/"
+      "url": "@@config.base_path/terms/"
     },
     "tutorials": {
       "anchor": "Tutorials",
@@ -156,8 +156,8 @@
     "byfibonad": "by Kulado Inc.",
     "community": "Comunidad",
     "company": "Compañía",
-    "cookies": "We use cookies: help us provide a better browsing experience. By using our website, you agree that we may store cookies and access them on your device. Form more information, see our <a href='@@config.base_path/en/terms/#cookies-policy'>Cookies policy</a>.",
-    "cookies_aplicateca": "We use cookies: help us provide a better browsing experience. By using our website, you agree that we may store cookies and access them on your device. Form more information, see our <a href='@@config.base_path/en/terms/#cookies-policy'>Cookies policy</a>.",
+    "cookies": "We use cookies: help us provide a better browsing experience. By using our website, you agree that we may store cookies and access them on your device. Form more information, see our <a href='@@config.base_path/terms/#cookies-policy'>Cookies policy</a>.",
+    "cookies_aplicateca": "We use cookies: help us provide a better browsing experience. By using our website, you agree that we may store cookies and access them on your device. Form more information, see our <a href='@@config.base_path/terms/#cookies-policy'>Cookies policy</a>.",
     "free_trial": "Free trial",
     "media": "Medios y redes",
     "partners": {
@@ -186,19 +186,19 @@
     "tos": {
       "cookies": {
         "title": "Use of Cookies",
-        "url": "@@config.base_path/en/terms/#cookies-policy"
+        "url": "@@config.base_path/terms/#cookies-policy"
       },
       "legal": {
         "title": "Terms of Use",
-        "url": "@@config.base_path/en/terms/"
+        "url": "@@config.base_path/terms/"
       },
       "privacy": {
         "title": "Privacy Policy",
-        "url": "@@config.base_path/en/terms/#privacidad"
+        "url": "@@config.base_path/terms/#privacidad"
       },
       "terms_of_use": {
         "title": "General Conditions of Use",
-        "url": "@@config.base_path/en/terms/#uso"
+        "url": "@@config.base_path/terms/#uso"
       }
     },
     "try_it": "Create your App now!",
@@ -210,7 +210,7 @@
       "email": "E-mail",
       "name": "App name",
       "pass": "Password",
-      "check_TOS": "I have read and accept the <a href='@@config.base_path/en/terms/' target='_blank'> privacy policy & data protection policy.</a>"
+      "check_TOS": "I have read and accept the <a href='@@config.base_path/terms/' target='_blank'> privacy policy & data protection policy.</a>"
     }
   },
   "header": {
@@ -219,7 +219,7 @@
     "logo": {
       "title": "VirtuaaS Logo",
       "title_xmas": "VirtuaaS Xmas Logo",
-      "url": "@@config.base_path/en/"
+      "url": "@@config.base_path/"
     },
     "menu": "menu",
     "nav": {
@@ -229,11 +229,11 @@
       "info": {
         "about_us": {
           "title": "About Us",
-          "url": "@@config.base_path/en/about-us/"
+          "url": "@@config.base_path/about-us/"
         },
         "company_bio": {
           "title": "Company Bio",
-          "url": "@@config.base_path/en/company-bio/"
+          "url": "@@config.base_path/company-bio/"
         },
         "helpcenter": {
           "title": "Help Center",
@@ -243,15 +243,15 @@
         "info": "More...",
         "prices": {
           "title": "Prices",
-          "url": "@@config.base_path/en/prices/"
+          "url": "@@config.base_path/prices/"
         },
         "pwa": {
           "title": "PWA",
-          "url": "@@config.base_path/en/progressive-web-app/"
+          "url": "@@config.base_path/progressive-web-app/"
         },
         "terms": {
           "title": "Legal terms",
-          "url": "@@config.base_path/en/terms/"
+          "url": "@@config.base_path/terms/"
         }
       },
       "legal": {
@@ -292,13 +292,13 @@
       "quote": "We needed a channel that would bring us closer to our customers to communicate our new products and have a showcase 24/7 and VirtuaaS seemed very useful and simple.",
       "name": "Sandra & Paloma, <span>Asis & Gross</span>",
       "more": "More about Asis & Gross",
-      "url": "@@config.base_path/en/asis-and-gross-sucessfull-showcase/"
+      "url": "@@config.base_path/asis-and-gross-sucessfull-showcase/"
     },
     "client2": {
       "quote": "The idea of creating an application is more than obvious: customers have the physio in their pocket 24 hours. In addition, we opted for VirtuaaS for his price and his simplicity of use.",
       "name": "Pablo, <span>Fisiohogar</span>",
       "more": "More about Fisiohogar",
-      "url": "@@config.base_path/en/fisiohogar-sucessfull-showcase/"
+      "url": "@@config.base_path/fisiohogar-sucessfull-showcase/"
     },
     "client3": {
       "quote": "Now it is even easier to create apps with VirtuaaS. You don´t need to program anything, just linked your Facebook Business Page and you will have your own company App created!",
@@ -594,7 +594,7 @@
     "name_placeholder": "Type your name",
     "email_placeholder": "Type your email",
     "comment_placeholder": "Type your comment",
-    "tos_checkbox": "I have read and accept the <a href='@@config.base_path/en/terms/' target='_blank'> privacy policy & data protection policy.</a>",
+    "tos_checkbox": "I have read and accept the <a href='@@config.base_path/terms/' target='_blank'> privacy policy & data protection policy.</a>",
     "send_button": "Send message",
     "thanks_text": "Thanks for your message. We'll in touch soon!"
   },

@@ -1,35 +1,11 @@
 {
-  "default": "es",
+  "default": "en",
   "codes": [
-    {
-      "language_name": "Español",
-      "language_country" : "es",
-      "language_short_code": "Esp",
-      "home": "/"
-    },
     {
       "language_name": "English",
       "language_country" : "en",
       "language_short_code": "Eng",
-      "home": "/en/"
-    },
-    {
-      "language_name": "Portuguese",
-      "language_country" : "pt",
-      "language_short_code": "Port",
-      "home": "/pt/"
-    },
-    {
-      "language_name": "Bahasa",
-      "language_country" : "id",
-      "language_short_code": "Bah",
-      "home": "/id/"
-    },
-    {
-      "language_name": "México",
-      "language_country" : "es-MX",
-      "language_short_code": "Mex",
-      "home": "/mx/"
+      "home": "/"
     }
   ]
 }
