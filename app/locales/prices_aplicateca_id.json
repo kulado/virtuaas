@@ -1,8 +1,8 @@
 {
   "prices_aplicateca": {
     "_keywords": "create app, how to create your app, create app android, create app iphone, create application, create online app, crear mobile app",
-    "_meta_description": "Upplication to do apps yourself, for you or your business in Movistar Aplicateca. It is easy, without coding, and quick, in few minutes.",
-    "_meta_title": "Upplication Pricing plans in Movistar Aplicateca",
+    "_meta_description": "VirtuaaS to do apps yourself, for you or your business in Movistar Aplicateca. It is easy, without coding, and quick, in few minutes.",
+    "_meta_title": "VirtuaaS Pricing plans in Movistar Aplicateca",
     "_priority": "0.6",
     "_url": "/id/prices-aplicateca/",
     "all_plans_include": {
@@ -29,9 +29,9 @@
     "contact": {
       "customer_service": {
         "email": {
-          "link": "mailto:aplicateca@upplication.com",
-          "text": "aplicateca@upplication.com",
-          "title": "aplicateca@upplication.com"
+          "link": "mailto:aplicateca@virtuaas.com",
+          "text": "aplicateca@virtuaas.com",
+          "title": "aplicateca@virtuaas.com"
         },
         "phone": {
           "link": "tel:0034917958203",
@@ -44,7 +44,7 @@
     "custom_app": {
       "subtitle": "Kami akan menjelaskan bagaimana kita melakukannya",
       "title": "Membangun aplikasi Anda sendiri dengan kami",
-      "btn": "mailto:aplicateca@upplication.com",
+      "btn": "mailto:aplicateca@virtuaas.com",
       "copy": "Menulis kami"
     },
     "dollar": "$",
@@ -66,7 +66,7 @@
           },
           {
             "icon_class": "icon icon-megaphone",
-            "title": "Iklan Upplication"
+            "title": "Iklan VirtuaaS"
           },
           {
             "icon_class": "icon icon-pencil",
@@ -85,7 +85,7 @@
         "surname": "Selamat datang rencana.",
         "img": {
           "src": "@@config.base_path/images/home/icons/rocket-copper.svg",
-          "title": "Upplication Basic plan"
+          "title": "VirtuaaS Basic plan"
         },
         "price": "8.25",
         "price_dollars": "8.25",
@@ -102,7 +102,7 @@
           },
           {
             "icon_class": "icon icon-megaphone",
-            "title": "<span class=\"bold\">Tidak ada</span><span> Iklan Upplication</span>"
+            "title": "<span class=\"bold\">Tidak ada</span><span> Iklan VirtuaaS</span>"
           },
           {
             "icon_class": "icon icon-pencil",
@@ -121,7 +121,7 @@
         "surname": "Rencana peluncur bisnis.",
         "img": {
           "src": "@@config.base_path/images/home/icons/rocket-silver.svg",
-          "title": "Upplication Professional plan"
+          "title": "VirtuaaS Professional plan"
         },
         "price": "24.75",
         "price_dollars": "24.75",
@@ -138,7 +138,7 @@
           },
           {
             "icon_class": "icon icon-megaphone",
-            "title": "<span class=\"bold\">Tidak ada</span><span> Iklan Upplication</span>"
+            "title": "<span class=\"bold\">Tidak ada</span><span> Iklan VirtuaaS</span>"
           },
           {
             "icon_class": "icon icon-pencil",
@@ -157,7 +157,7 @@
         "surname": "Dimasukkan ke dalam orbit",
         "img": {
           "src": "@@config.base_path/images/home/icons/rocket-gold.svg",
-          "title": "Plan Premium de Upplication"
+          "title": "Plan Premium de VirtuaaS"
         },
         "price": "49,55",
         "price_dollars": "49,55",
@@ -193,7 +193,7 @@
         "surname": "Kami membuat aplikasi anda.",
         "img": {
           "src": "@@config.base_path/images/home/icons/rocket-blue.svg",
-          "title": "Upplication kita lakukan aplikasi Anda"
+          "title": "VirtuaaS kita lakukan aplikasi Anda"
         },
         "price": "79,90",
         "price_dollars": "79,90",

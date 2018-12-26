@@ -1,27 +1,27 @@
 { 
-  "upplication.com": {
-    "tagmanager_token": "GTM-PPJS3G",
-    "webmaster_token": "129jFPaChS0aAgL4dXgc1-1LuQuxiEtBybMQsjzXy98",
-    "base_path": "//www.upplication.com",
-    "dashboard_base_path": "//dashboard.upplication.com",
+  "virtuaas.com": {
+    "tagmanager_token": "",
+    "webmaster_token": "",
+    "base_path": "//www.virtuaas.com",
+    "dashboard_base_path": "//dashboard.virtuaas.com",
     "newrelic": {
-      "licenseKey": "8eee99f18b",
-      "applicationID": "30437098"
+      "licenseKey": "xxxxxxxxx",
+      "applicationID": "xxxxxxxxx"
     },
     "env": "PRO"
   },
-  "landing.dev.upplication.com": {
-    "tagmanager_token": "GTM-MMNG33Q",
+  "landing.stage.virtuaas.com": {
+    "tagmanager_token": "",
     "webmaster_token": "",
-    "base_path": "//landing.dev.upplication.com",
-    "dashboard_base_path": "//dashboard.upplication.priv",
-    "env": "DES"
+    "base_path": "//landing.stage.virtuaas.com",
+    "dashboard_base_path": "//dashboard.VirtuaaS.priv",
+    "env": "STAGE"
   },
   "localhost": {
-    "tagmanager_token": "GTM-MMNG33Q",
+    "tagmanager_token": "",
     "webmaster_token": "",
     "base_path": "//localhost:9000",
     "dashboard_base_path": "//localhost:8080",
-    "env": "LOC"
+    "env": "DEV"
   }
 }

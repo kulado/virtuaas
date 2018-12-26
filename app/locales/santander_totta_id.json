@@ -1,13 +1,13 @@
 {
   "santander_totta": {
     "_keywords": "criar app, como criar a tua app, criar app android, criar app iphone, criar aplicação, criar app online, criar app móvel, PWA, Progressive Web App",
-    "_meta_description": "Upplication Criar app, a tua própria app móvel online. Experimenta livre durante 15 dias, sem necessidade de programação em questão de minutos. A tua app para Android e iOS",
-    "_meta_title": "Santander Totta e Upplication",
+    "_meta_description": "VirtuaaS Criar app, a tua própria app móvel online. Experimenta livre durante 15 dias, sem necessidade de programação em questão de minutos. A tua app para Android e iOS",
+    "_meta_title": "Santander Totta e VirtuaaS",
     "_priority": "0.8",
     "_url": "/id/conecte-o-seu-negocio/",
-    "upplication": {
+    "VirtuaaS": {
       "url": "@@config.base_path/pt/conecte-o-seu-negocio/",
-      "title": "Upplication logotipo"
+      "title": "VirtuaaS logotipo"
     },
     "logo": {
       "url": "@@config.base_path/pt/conecte-o-seu-negocio/",
@@ -81,8 +81,8 @@
         "claim": "Plano de boas-vindas",
         "features": [
           "<i class='icon icon-chart-line'></i> <b>Estatísticas</b> da app",
-          "<i class='icon icon-megaphone'></i> <b>Publicidade</b> Upplication",
-          "<i class='icon icon-pencil'></i> <b>Logotipo</b> da Upplication nas páginas",
+          "<i class='icon icon-megaphone'></i> <b>Publicidade</b> VirtuaaS",
+          "<i class='icon icon-pencil'></i> <b>Logotipo</b> da VirtuaaS nas páginas",
           "<i class='icon icon-paper-plane'></i> <b>Sem</b> notificações push"
         ],
         "price": "<li>7´95</li> <li>€</li> <li>/</li> <li>Mês</li>"
@@ -94,7 +94,7 @@
         "features": [
           "<i class='icon icon-chart-line'></i> <b>Estatísticas</b> da app",
           "<i class='icon icon-megaphone'></i> <b>Sem</b> publicidade",
-          "<i class='icon icon-pencil'></i> <b>Sem</b> logotipo da Upplication nas páginas",
+          "<i class='icon icon-pencil'></i> <b>Sem</b> logotipo da VirtuaaS nas páginas",
           "<i class='icon icon-paper-plane'></i> <b>4</b> notificações push/mês"
         ],
         "price": "<li>24´95</li> <li>€</li> <li>/</li> <li>Mês</li>"
@@ -115,7 +115,7 @@
     },
     "footer": {
       "partners": {
-        "title": "by Upplication",
+        "title": "by VirtuaaS",
         "url": "@@config.base_path/pt/conecte-o-seu-negocio/"
       },
       "legal": {

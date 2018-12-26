@@ -2,12 +2,12 @@
   "aplicateca": {
     "pricing_aplicateca": {
       "anchor": "Pricing",
-      "title": "Upplication prices in Aplicateca",
+      "title": "VirtuaaS prices in Aplicateca",
       "url": "@@config.base_path/en/prices-aplicateca/"
     },
     "terms_aplicateca": {
       "anchor": "Legal",
-      "title": "Upplication legal terms in Aplicateca",
+      "title": "VirtuaaS legal terms in Aplicateca",
       "url": "@@config.base_path/en/terms-aplicateca/"
     }
   },
@@ -19,7 +19,7 @@
     "aplicateca": {
       "anchor": "Login",
       "title": "Enter on Telefónica´s Aplicateca",
-      "url": "http://www.aplicateca.es/upplication"
+      "url": "http://www.aplicateca.es/VirtuaaS"
     },
     "apps": {
       "anchor": "Sample Apps",
@@ -27,15 +27,15 @@
     },
     "blog": {
       "anchor": "Blog",
-      "title": "Upplication´s Blog",
-      "url": "http://blog.en.upplication.com"
+      "title": "VirtuaaS´s Blog",
+      "url": "http://blog.en.virtuaas.com"
     },
     "breakfasts": {
       "anchor": "A sucessful showcase!",
       "url": "@@config.base_path/en/asis-and-gross/"
     },
     "company": {
-      "anchor": "Upplication bio",
+      "anchor": "VirtuaaS bio",
       "url": "@@config.base_path/en/company-bio/"
     },
     "create_apps": {
@@ -47,22 +47,22 @@
     },
     "facebook": {
       "anchor": "Facebook",
-      "url": "http://www.facebook.com/Upplication"
+      "url": "http://www.facebook.com/VirtuaaS"
     },
     "features": {
       "anchor": "Features"
     },
     "googleplus": {
       "anchor": "Google Plus",
-      "url": "https://plus.google.com/+Upplication?prsrc=5"
+      "url": "https://plus.google.com/+VirtuaaS?prsrc=5"
     },
     "vimeo": {
       "anchor": "Vimeo",
-      "url": "https://vimeo.com/upplication/"
+      "url": "https://vimeo.com/VirtuaaS/"
     },
     "github": {
       "anchor": "Github",
-      "url": "https://github.com/Upplication"
+      "url": "https://github.com/VirtuaaS"
     },
     "helpcenter": {
       "anchor": "Help Center",
@@ -71,7 +71,7 @@
     "hiring": "We are hiring!",
     "hiring_backend": {
       "anchor": "Backend developer",
-      "url": "http://backend.upplication.com/"
+      "url": "http://backend.virtuaas.com/"
     },
     "hiring_developer": {
       "anchor": "Developer intern",
@@ -79,7 +79,7 @@
     },
     "hiring_frontend": {
       "anchor": "Frontend developer",
-      "url": "http://frontend.upplication.com/"
+      "url": "http://frontend.virtuaas.com/"
     },
     "hiring_marketing": {
       "anchor": "Marketing Internship",
@@ -87,7 +87,7 @@
     },
     "instagram": {
       "anchor": "Instagram",
-      "url": "http://www.instagram.com/upplication"
+      "url": "http://www.instagram.com/VirtuaaS"
     },
     "jobs": {
       "anchor": "We are hiring!",
@@ -95,7 +95,7 @@
     },
     "linkedin": {
       "anchor": "Linkedin",
-      "url": "http://www.linkedin.com/company/upplication"
+      "url": "http://www.linkedin.com/company/VirtuaaS"
     },
     "media_kit": {
       "anchor": "Press",
@@ -103,11 +103,11 @@
     },
     "nubo": {
       "anchor": "NUBO",
-      "url": "http://www.ono.es/microsite-nubo/nubo-upplication/"
+      "url": "http://www.ono.es/microsite-nubo/nubo-VirtuaaS/"
     },
     "partners": {
       "anchor": "Become a partner",
-      "url": "http://www.upplication.com/distributors/conviertete-en-distribuidor-de-apps.html"
+      "url": "http://www.virtuaas.com/distributors/conviertete-en-distribuidor-de-apps.html"
     },
     "pricing": {
       "anchor": "Pricing",
@@ -122,7 +122,7 @@
       "url": "@@config.base_path/en/progressive-web-app/"
     },
     "social_media_btns": {
-      "twitter": "https://twitter.com/upplicationENG"
+      "twitter": "https://twitter.com/VirtuaaSENG"
     },
     "team": {
       "anchor": "Team",
@@ -132,7 +132,7 @@
       "help": "Help:",
       "legal": "Disclaimer:",
       "misc": "Miscellaneous:",
-      "uppl": "Upplication:"
+      "uppl": "VirtuaaS:"
     },
     "tos": {
       "anchor": "Terms and Conditions",
@@ -144,15 +144,15 @@
     },
     "twitter": {
       "anchor": "Twitter",
-      "url": "http://www.twitter.com/upplication"
+      "url": "http://www.twitter.com/VirtuaaS"
     },
     "youtube": {
       "anchor": "Youtube",
-      "url": "http://youtube.com/upplication"
+      "url": "http://youtube.com/VirtuaaS"
     }
   },
   "footer": {
-    "brand_copy": "Upplication",
+    "brand_copy": "VirtuaaS",
     "byfibonad": "by Fibonad",
     "community": "Comunidad",
     "company": "Compañía",
@@ -217,8 +217,8 @@
     "enter": "Login",
     "free_trial": "Free Trial",
     "logo": {
-      "title": "Upplication Logo",
-      "title_xmas": "Upplication Xmas Logo",
+      "title": "VirtuaaS Logo",
+      "title_xmas": "VirtuaaS Xmas Logo",
       "url": "@@config.base_path/en/"
     },
     "menu": "menu",
@@ -262,19 +262,19 @@
       },
       "prices": "Pricing"
     },
-    "support_mail": "<a href='mailto:soporte@upplication.com'>soporte@upplication.com</a>",
+    "support_mail": "<a href='mailto:soporte@virtuaas.com'>soporte@virtuaas.com</a>",
     "telephone": "+34 917 958 203"
   },
   "common": {
     "customer_service": {
       "email": {
-        "alt_tag": "Send email to Upplication customer service",
-        "link": "mailto:info@upplication.com",
-        "text": "info@upplication.com",
-        "title": "info@upplication.com"
+        "alt_tag": "Send email to VirtuaaS customer service",
+        "link": "mailto:info@virtuaas.com",
+        "text": "info@virtuaas.com",
+        "title": "info@virtuaas.com"
       },
       "phone": {
-        "alt_tag": "Call to Upplication customer service",
+        "alt_tag": "Call to VirtuaaS customer service",
         "link": "tel:0034917958203",
         "text": "tel: +34 917 958 203",
         "text_tel": "<span>+34 917 958 203</span>",
@@ -289,19 +289,19 @@
   },
   "testimonials": {
     "client1": {
-      "quote": "We needed a channel that would bring us closer to our customers to communicate our new products and have a showcase 24/7 and Upplication seemed very useful and simple.",
+      "quote": "We needed a channel that would bring us closer to our customers to communicate our new products and have a showcase 24/7 and VirtuaaS seemed very useful and simple.",
       "name": "Sandra & Paloma, <span>Asis & Gross</span>",
       "more": "More about Asis & Gross",
       "url": "@@config.base_path/en/asis-and-gross-sucessfull-showcase/"
     },
     "client2": {
-      "quote": "The idea of creating an application is more than obvious: customers have the physio in their pocket 24 hours. In addition, we opted for Upplication for his price and his simplicity of use.",
+      "quote": "The idea of creating an application is more than obvious: customers have the physio in their pocket 24 hours. In addition, we opted for VirtuaaS for his price and his simplicity of use.",
       "name": "Pablo, <span>Fisiohogar</span>",
       "more": "More about Fisiohogar",
       "url": "@@config.base_path/en/fisiohogar-sucessfull-showcase/"
     },
     "client3": {
-      "quote": "Now it is even easier to create apps with Upplication. You don´t need to program anything, just linked your Facebook Business Page and you will have your own company App created!",
+      "quote": "Now it is even easier to create apps with VirtuaaS. You don´t need to program anything, just linked your Facebook Business Page and you will have your own company App created!",
       "name": "Discover <span>Facebook onboarding</span>!",
       "more": "More about Facebook onboarding",
       "url": "https://youtu.be/NyRm-ttbKeM"
@@ -310,8 +310,8 @@
   },
   "modal": {
     "button": {
-      "email": "mailto:info@upplication.com",
-      "support_mail": "info@upplication.com",
+      "email": "mailto:info@virtuaas.com",
+      "support_mail": "info@virtuaas.com",
       "telephone": "+34 917 958 203",
       "telf": "tel:0034917958203"
     },
@@ -330,12 +330,12 @@
   "ourclients": {
     "client1": {
       "alt": "ABC logo",
-      "title": "Upplication in ABC dairy",
-      "url": "http://www.abc.es/tecnologia/moviles-aplicaciones/20140315/abci-upplication-wordpress-creacion-201403141400.html"
+      "title": "VirtuaaS in ABC dairy",
+      "url": "http://www.abc.es/tecnologia/moviles-aplicaciones/20140315/abci-VirtuaaS-wordpress-creacion-201403141400.html"
     },
     "client2": {
       "alt": "El Economista logo",
-      "title": "Upplication in El Economista",
+      "title": "VirtuaaS in El Economista",
       "url": "http://www.eleconomista.es/emprendedores-pymes/noticias/6747454/05/15/La-transformacion-digital-y-la-innovacion-claves-para-la-competitividad-de-las-pymes-.html"
     },
     "client3": {
@@ -345,12 +345,12 @@
     },
     "client4": {
       "alt": "EFE: Emprende logo",
-      "title": "Upplication in EFE: Emprende, business news",
-      "url": "http://www.efeemprende.com/noticia/los-emprendedores-pueden-crear-propias-apps-sin-programar-upplication/"
+      "title": "VirtuaaS in EFE: Emprende, business news",
+      "url": "http://www.efeemprende.com/noticia/los-emprendedores-pueden-crear-propias-apps-sin-programar-VirtuaaS/"
     },
     "client5": {
       "alt": "Telefónica logo",
-      "title": "Upplication in Telefónica´s Open Future",
+      "title": "VirtuaaS in Telefónica´s Open Future",
       "url": "https://www.openfuture.org/es/new/fideliza-a-los-clientes-de-tu-startup-creando"
     },
     "client6": {
@@ -361,12 +361,12 @@
     "client7": {
       "alt": "wwwhat´s new logo",
       "title": "wwwhat´s new, technology and business app news",
-      "url": "http://wwwhatsnew.com/2013/10/21/upplication-para-crear-apps-de-comercio-electronico-sin-saber-programar"
+      "url": "http://wwwhatsnew.com/2013/10/21/VirtuaaS-para-crear-apps-de-comercio-electronico-sin-saber-programar"
     },
     "client8": {
       "alt": "TVE logo",
       "title": "TVE interview in Zoom Net show",
-      "url": "http://www.rtve.es/alacarta/videos/zoom-net/zoom-net-upplication-huawei-p9-uncharted-4/3571439/"
+      "url": "http://www.rtve.es/alacarta/videos/zoom-net/zoom-net-VirtuaaS-huawei-p9-uncharted-4/3571439/"
     },
     "client9": {
       "alt": "La Razón logo",
@@ -394,7 +394,7 @@
       "num11": "App name is not valid, try removing special characters",
       "num13": "The license code is invalid",
       "num2": "Error creating your app, please contact us",
-      "num3": "This email account is already registered in Upplication",
+      "num3": "This email account is already registered in VirtuaaS",
       "num4": "App name already in use",
       "num5": "Seller code is incorrect",
       "num6": "App name and account already in use",
@@ -406,7 +406,7 @@
     "try_it": "Try it free, you have 15 days",
     "warning": {
       "ajax": "Oops... we had a small problem.",
-      "ajax_msg": "Registration could not be completed, please try again or e-mail us to <a href='mailto:soporte@upplication.com'>soporte@upplication.com</a>",
+      "ajax_msg": "Registration could not be completed, please try again or e-mail us to <a href='mailto:soporte@virtuaas.com'>soporte@virtuaas.com</a>",
       "name": "Your App’s name must be between 3 and 32 characters long and cannot start with a number",
       "password": "The minimum password length is 8 characters"
     }
@@ -424,7 +424,7 @@
         "icon_class": "icon-online-store",
         "name": "online-store",
         "title": "Your online store",
-        "url": "http://shopexample.upplication.com/"
+        "url": "http://shopexample.virtuaas.com/"
       },
       {
         "description": "Create the mobile app for your restaurant and offer value to your mobile client.",
@@ -437,7 +437,7 @@
         "icon_class": "icon-restaurants",
         "name": "restaurants",
         "title": "Restaurants",
-        "url": "http://restaurantexample.upplication.com/"
+        "url": "http://restaurantexample.virtuaas.com/"
       },
       {
         "description": "Create the mobile app for your bar or coffee shop and discover an innovative way to market your business.",
@@ -450,7 +450,7 @@
         "icon_class": "icon-bar-and-coffee",
         "name": "bar-and-coffee",
         "title": "Bar & coffee",
-        "url": "http://barcafeexample.upplication.com/"
+        "url": "http://barcafeexample.virtuaas.com/"
       },
       {
         "description": "Create an app for your gym and put your business at the forefront of today’s technology.",
@@ -463,7 +463,7 @@
         "icon_class": "icon-gym",
         "name": "gym",
         "title": "Gyms and sports hall",
-        "url": "http://gymexample.upplication.com/"
+        "url": "http://gymexample.virtuaas.com/"
       },
       {
         "description": "Create an app offering your services and connect with your clients via mobile phone.",
@@ -474,7 +474,7 @@
         "icon_class": "icon-professional-services",
         "name": "professional-services",
         "title": "Professional services",
-        "url": "http://professionalservicesexample.upplication.com/"
+        "url": "http://professionalservicesexample.virtuaas.com/"
       },
       {
         "description": "Create an app of your event to ensure attendees loyalty.",
@@ -486,7 +486,7 @@
         "icon_class": "icon-events",
         "name": "events",
         "title": "Events",
-        "url": "http://eventsexample.upplication.com/"
+        "url": "http://eventsexample.virtuaas.com/"
       },
       {
         "description": "Create an app for your band and stay connected with your fans.",
@@ -498,7 +498,7 @@
         "icon_class": "icon-music",
         "name": "music",
         "title": "Music",
-        "url": "http://musicexample.upplication.com/"
+        "url": "http://musicexample.virtuaas.com/"
       },
       {
         "description": "Create an app to depict all of your skills",
@@ -510,7 +510,7 @@
         "icon_class": "icon-personal-app",
         "name": "personal-app",
         "title": "Personal app",
-        "url": "http://personalappexample.upplication.com/"
+        "url": "http://personalappexample.virtuaas.com/"
       },
       {
         "description": "Create an app of your city to help tourists.",
@@ -522,7 +522,7 @@
         "icon_class": "icon-tourism",
         "name": "tourism",
         "title": "Tourism",
-        "url": "http://tourismexample.upplication.com/"
+        "url": "http://tourismexample.virtuaas.com/"
       },
       {
         "description": "Create an app for all things beauty, and make the life of your clients healthier.",
@@ -535,7 +535,7 @@
         "icon_class": "icon-health",
         "name": "health",
         "title": "Health and beauty",
-        "url": "http://healthbeautyexample.upplication.com/"
+        "url": "http://healthbeautyexample.virtuaas.com/"
       },
       {
         "description": "Create an app with your own designs",
@@ -547,7 +547,7 @@
         "icon_class": "icon-art",
         "name": "art",
         "title": "Art and Design",
-        "url": "http://musicexample.upplication.com/"
+        "url": "http://musicexample.virtuaas.com/"
       },
       {
         "description": "“Create an app for your media channel making you easily accessible from any smartphone",
@@ -559,7 +559,7 @@
         "icon_class": "icon-media",
         "name": "media",
         "title": "Media & blogs",
-        "url": "http://mediablogexample.upplication.com/"
+        "url": "http://mediablogexample.virtuaas.com/"
       },
       {
         "description": "Create an app for your business creating an easy method of home delivery.",
@@ -571,7 +571,7 @@
         "icon_class": "icon-delivery",
         "name": "delivery",
         "title": "Home Delivery",
-        "url": "http://musicexample.upplication.com/"
+        "url": "http://musicexample.virtuaas.com/"
       },
       {
         "description": "Create an app for your hobbies and passions.",
@@ -583,7 +583,7 @@
         "icon_class": "icon-lifestyle",
         "name": "lifestyle",
         "title": "Lifestyle",
-        "url": "http://waysoflifeexample.upplication.com/"
+        "url": "http://waysoflifeexample.virtuaas.com/"
       }
     ]
   },

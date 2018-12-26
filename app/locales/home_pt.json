@@ -1,8 +1,8 @@
 {
   "home": {
     "_keywords": "criar app, como criar a sua app, criar app android, criar app iphone, criar aplicação, criar app online, criar app móvel, PWA, Progressive Web App",
-    "_meta_description": "Upplication Criar app, a sua própria app móvel online. Experimenta livre durante 15 dias, sem necessidade de programação em questão de minutos. A sua app para Android e iOS",
-    "_meta_title": "Crie a sua app da sua PME - Upplication",
+    "_meta_description": "VirtuaaS Criar app, a sua própria app móvel online. Experimenta livre durante 15 dias, sem necessidade de programação em questão de minutos. A sua app para Android e iOS",
+    "_meta_title": "Crie a sua app da sua PME - VirtuaaS",
     "_priority": "1.0",
     "_url": "/pt/",
     "create_free": "Teste gr\u00e1tis",
@@ -22,7 +22,7 @@
         "reg_step3": "nome da sua app, email e senha.",
         "reg_step4": "Recorda: Tens <b>15 dias</b> de <b>prova gr\u00e1tis</b> com <b>ajuda personalizada</b>.",
         "reg_step5": "Come\u00e7\u00e1mos",
-        "reg_title": "Ir ao onboarding Upplication"
+        "reg_title": "Ir ao onboarding VirtuaaS"
       },
       "how_three": {
         "tutor_step1": "Tutor pessoal",
@@ -72,7 +72,7 @@
           "title": "Tutor pessoal"
         },
         {
-          "desc": "Com Upplication poder\u00e1s criar a sua app para iOS, Android e a web responsive que desejas. Al\u00e9m disso n\u00f3s iremos public\u00e1-la em App Store e Google Play por ti.",
+          "desc": "Com VirtuaaS poder\u00e1s criar a sua app para iOS, Android e a web responsive que desejas. Al\u00e9m disso n\u00f3s iremos public\u00e1-la em App Store e Google Play por ti.",
           "icon": "multidevice",
           "title": "Multidispositivo"
         }
@@ -81,13 +81,13 @@
     },
     "permanence": "Per\u00edodo experimental sem compromisso de perman\u00eancia",
     "press": {
-      "abc": "http://www.abc.es/tecnologia/moviles-aplicaciones/20140315/abci-upplication-wordpress-creacion-201403141400.html",
-      "agencia_efe": "http://www.efeempresas.com/noticia/nace-upplication-startup-permite-crear-propia-aplicacion-movil-efeempresas/",
-      "el_economista": "http://www.eleconomista.es/interstitial/volver/consejo/emprendedores-innova/noticias/5498091/01/14/Upplication-permite-crear-una-aplicacion-movil-por-menos-de-5-euros-al-mes.html",
-      "forbes": "http://www.forbesmagazine.es/actualidad-noticia/upplication-crea-app-tu-negocio-5-minutos_635.html",
-      "telefonica": "http://blogthinkbig.com/upplication-post-pc/",
+      "abc": "http://www.abc.es/tecnologia/moviles-aplicaciones/20140315/abci-VirtuaaS-wordpress-creacion-201403141400.html",
+      "agencia_efe": "http://www.efeempresas.com/noticia/nace-VirtuaaS-startup-permite-crear-propia-aplicacion-movil-efeempresas/",
+      "el_economista": "http://www.eleconomista.es/interstitial/volver/consejo/emprendedores-innova/noticias/5498091/01/14/VirtuaaS-permite-crear-una-aplicacion-movil-por-menos-de-5-euros-al-mes.html",
+      "forbes": "http://www.forbesmagazine.es/actualidad-noticia/VirtuaaS-crea-app-tu-negocio-5-minutos_635.html",
+      "telefonica": "http://blogthinkbig.com/VirtuaaS-post-pc/",
       "ticbeat": "http://pymes.ticbeat.com/servicios-crear-app-de-tu-negocio-sin-programar/",
-      "wwwhatsnew": "http://wwwhatsnew.com/2013/10/21/upplication-para-crear-apps-de-comercio-electronico-sin-saber-programar"
+      "wwwhatsnew": "http://wwwhatsnew.com/2013/10/21/VirtuaaS-para-crear-apps-de-comercio-electronico-sin-saber-programar"
     },
     "register_inline": {
       "app_name": "Nome da app",
@@ -98,10 +98,10 @@
     },
     "samples": {
       "alt_tag": {
-        "img_galaxy": "App de Upplication a funcionar num Samsung Galaxy",
-        "img_iphone": "App de Upplication a funcionar num iPhone",
-        "img_nexus": "App de Upplication a funcionar num Nexus",
-        "img_xperia": "App de Upplication a funcionar num Sony Xperia"
+        "img_galaxy": "App de VirtuaaS a funcionar num Samsung Galaxy",
+        "img_iphone": "App de VirtuaaS a funcionar num iPhone",
+        "img_nexus": "App de VirtuaaS a funcionar num Nexus",
+        "img_xperia": "App de VirtuaaS a funcionar num Sony Xperia"
       },
       "business": "Apps para todo o tipo de neg\u00f3cios",
       "custom": {
@@ -160,7 +160,7 @@
       ]
     },
     "support": {
-      "desc": "Todos e cada um dos colegas que formamos Upplication vamos colocar todo o nosso empenho em conseguir que obtenhas a melhor experi\u00eancia de suporte t\u00e9cnico que esteja nas nossas m\u00e3os. Se tens qualquer problema conta connosco.",
+      "desc": "Todos e cada um dos colegas que formamos VirtuaaS vamos colocar todo o nosso empenho em conseguir que obtenhas a melhor experi\u00eancia de suporte t\u00e9cnico que esteja nas nossas m\u00e3os. Se tens qualquer problema conta connosco.",
       "title": "Estamos para te ajudar!"
     },
     "try": "Crie a sua app,<br/>tens 15 dias gr\u00e1tis!",

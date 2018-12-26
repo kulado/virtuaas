@@ -1,7 +1,7 @@
 
 # Redirect domain alias
 
-https://www.upplication.es/* https://www.upplication.com/:splat 301!
+https://www.virtuaas.com/* https://www.virtuaas.com/:splat 301!
 
 # Wingu:
 # Try to redict any content "outside vodafone path" to the vodafone path
@@ -37,27 +37,27 @@ https://www.winguapps.com/es/terminos/ https://www.winguapps.com/es/vodafone/ 30
 /team/ /en/about-us/ 301
 /pricing/ /en/prices/ 301
 /equipo/ /es/nosotros/ 301
-/tipos-marketing-movil/ https://blog.upplication.com/tipos-marketing-movil/ 301
-/logo-upplication/ https://blog.upplication.com/logo-upplication/ 301
-/ventajas-marketing-movil/ https://blog.upplication.com/ventajas-marketing-movil/ 301
-/web-multidispositivo-aplicacion-movil/ https://blog.upplication.com/web-multidispositivo-aplicacion-movil/ 301
-/mobile-world-congress-upplication/ https://blog.upplication.com/mobile-world-congress-upplication/ 301
+/tipos-marketing-movil/ https://blog.virtuaas.com/tipos-marketing-movil/ 301
+/logo-VirtuaaS/ https://blog.virtuaas.com/logo-VirtuaaS/ 301
+/ventajas-marketing-movil/ https://blog.virtuaas.com/ventajas-marketing-movil/ 301
+/web-multidispositivo-aplicacion-movil/ https://blog.virtuaas.com/web-multidispositivo-aplicacion-movil/ 301
+/mobile-world-congress-VirtuaaS/ https://blog.virtuaas.com/mobile-world-congress-VirtuaaS/ 301
 
 /ejemplos-vodafone/ /es/asis-and-gross/ 301
 /vodafone-examples/ /en/asis-and-gross-sucessfull-showcase/ 301
 /exemplos-vodafone/ /pt/asis-and-gross-caso-bem-sucedido/ 301
 /vodafone-examples-indonesian/ /id/asis-and-gross-sucessfull-showcase/ 301
 
-/category/apps/ https://blog.upplication.com/category/aplicaciones-movil/ 301
-/category/plantillas/ https://blog.upplication.com/category/dia-a-dia/ 301
+/category/apps/ https://blog.virtuaas.com/category/aplicaciones-movil/ 301
+/category/plantillas/ https://blog.virtuaas.com/category/dia-a-dia/ 301
 
-/blog/autor/equipo-upplication/ /es/nosotros/ 301
-/blog/blog-corporativo/ https://blog.upplication.com 301
+/blog/autor/equipo-VirtuaaS/ /es/nosotros/ 301
+/blog/blog-corporativo/ https://blog.virtuaas.com 301
 
-/condicioneslegalesmovistar-upplication/ /es/terminos-aplicateca/ 301
-/termsandconditionsmovistar-upplication/ /en/terms-aplicateca/ 301
-/termsandconditionsmovistar-upplication-indonesian/ /id/terms-aplicateca/ 301
-/condiçõeslegaismovistar-upplication/ /pt/termos-aplicateca/ 301
+/condicioneslegalesmovistar-VirtuaaS/ /es/terminos-aplicateca/ 301
+/termsandconditionsmovistar-VirtuaaS/ /en/terms-aplicateca/ 301
+/termsandconditionsmovistar-VirtuaaS-indonesian/ /id/terms-aplicateca/ 301
+/condiçõeslegaismovistar-VirtuaaS/ /pt/termos-aplicateca/ 301
 /build-app-mobile-terms/ /en/terms/ 301
 /politica-subida-apps-app-store/ /es/terminos/ 301
 
@@ -153,17 +153,17 @@ https://www.winguapps.com/es/terminos/ https://www.winguapps.com/es/vodafone/ 30
 /crear-app-movil-*  /crear-app-movil/:splat 301
 
 # blog redirect
-/blog/*  https://blog.upplication.com/:splat  301
+/blog/*  https://blog.virtuaas.com/:splat  301
 
 # proxy para s3
-/como-conseguir-app-exito-rapido* https://s3-eu-west-1.amazonaws.com/upp-static/Consigue+que+tu+app+sea+un+%C3%A9xito+en+5+d%C3%ADas+(Upplication).pdf 200
+/como-conseguir-app-exito-rapido* https://s3-eu-west-1.amazonaws.com/upp-static/Consigue+que+tu+app+sea+un+%C3%A9xito+en+5+d%C3%ADas+(VirtuaaS).pdf 200
 
 # proxy estudio-mobile-pymes
-/estudio-mobile-pymes-2016* http://microlanding.upplication.com/estudio-mobile-pymes-2016 200
+/estudio-mobile-pymes-2016* http://microlanding.virtuaas.com/estudio-mobile-pymes-2016 200
 
 # proxy microlandings
-/crear-app-movil/* http://microlanding.upplication.com/crear-app-movil/:splat 200
-/crear/* http://microlanding.upplication.com/crear-app-movil/:splat 200
+/crear-app-movil/* http://microlanding.virtuaas.com/crear-app-movil/:splat 200
+/crear/* http://microlanding.virtuaas.com/crear-app-movil/:splat 200
 
 # custom 404
 /* /es/pagina-no-encontrada 404

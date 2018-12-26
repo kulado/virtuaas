@@ -51,7 +51,7 @@ var setCookie = function (name, value) {
         domain = '';
     CookieDate.setFullYear(CookieDate.getFullYear() + 10);
 
-    if ($UPP.localConfig.env != "DES") {
+    if ($UPP.localConfig.env != "STAGE") {
         domain = " ;domain=" + document.domain;
     }
 

@@ -1,19 +1,19 @@
-# https://www.upplication.com/humans.txt
+# https://www.virtuaas.com/humans.txt
 
 /* TEAM */
-    Developer: Raul Jiménez
-    Twitter: @raul_en
-    From: Granada, Andalucia, Spain
+    Developer: Eric Baranowski
+    LinkedIn: @ericbaranowski
+    From: St. Louis, MO, USA
 
-    Developer: Javier Arnáiz
-    Contact: javier.arnaiz [at] upplication.com
-    Twitter: @arnaix
-    From: Sevilla, Andalucia, Spain
+    Developer: Eric Baranowski
+    Contact: eric [at] virtuaas.com
+    Twitter: @KuladoInc
+    From: Salt Lake City, UT, USA
 
-    UI developer: Borja Andrés
-    Twitter: @borya09
-    From: Bilbao, Vizcaya, Spain
+    UI developer: Eric Baranowski
+    Portfolio: www.doteric.com
+    From: Austin, TX, USA
 
-    UI design: Javier Lorenzo
-    Twitter: @jalofernandez
-    From: Madrid, Madrid, Spain
+    UI design: Eric Baranowski
+    Github: @ericbaranowski
+    From: Cleveland, OH, USA

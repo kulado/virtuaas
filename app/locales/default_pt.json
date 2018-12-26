@@ -2,12 +2,12 @@
   "aplicateca": {
     "pricing_aplicateca": {
       "anchor": "Pre\u00e7os",
-      "title": "Pre\u00e7os de Upplication em Aplicateca",
+      "title": "Pre\u00e7os de VirtuaaS em Aplicateca",
       "url": "@@config.base_path/pt/pre\u00e7os-aplicateca/"
     },
     "terms_aplicateca": {
       "anchor": "Legal",
-      "title": "Condi\u00e7\u00f5es legais de Upplication em Aplicateca",
+      "title": "Condi\u00e7\u00f5es legais de VirtuaaS em Aplicateca",
       "url": "@@config.base_path/pt/termos-aplicateca/"
     }
   },
@@ -19,7 +19,7 @@
     "aplicateca": {
       "anchor": "Entrar",
       "title": "Entrar em Aplicateca da Telef\u00f3nica",
-      "url": "http://www.aplicateca.es/upplication"
+      "url": "http://www.aplicateca.es/VirtuaaS"
     },
     "apps": {
       "anchor": "Exemplos de apps",
@@ -27,15 +27,15 @@
     },
     "blog": {
       "anchor": "Blogue",
-      "title": "Blogue da Upplication",
-      "url": "https://blog.upplication.com/"
+      "title": "Blogue da VirtuaaS",
+      "url": "https://blog.virtuaas.com/"
     },
     "breakfasts": {
       "anchor": "Sucesso app",
       "url": "@@config.base_path/pt/asis-and-gross/"
     },
     "company": {
-      "anchor": "Upplication bio",
+      "anchor": "VirtuaaS bio",
       "url": "@@config.base_path/pt/bio-do-companhia/"
     },
     "create_apps": {
@@ -47,22 +47,22 @@
     },
     "facebook": {
       "anchor": "Facebook",
-      "url": "http://www.facebook.com/Upplication"
+      "url": "http://www.facebook.com/VirtuaaS"
     },
     "features": {
       "anchor": "Caracter\u00edsticas"
     },
     "googleplus": {
       "anchor": "Google Plus",
-      "url": "https://plus.google.com/+Upplication?prsrc=5"
+      "url": "https://plus.google.com/+VirtuaaS?prsrc=5"
     },
     "vimeo": {
       "anchor": "Vimeo",
-      "url": "https://vimeo.com/upplication/"
+      "url": "https://vimeo.com/VirtuaaS/"
     },
     "github": {
       "anchor": "Github",
-      "url": "https://github.com/Upplication"
+      "url": "https://github.com/VirtuaaS"
     },
     "helpcenter": {
       "anchor": "Centro de ajuda",
@@ -71,7 +71,7 @@
     "hiring": "Estamos a contratar!",
     "hiring_backend": {
       "anchor": "Desenvolvedor Backend",
-      "url": "http://backend.upplication.com/"
+      "url": "http://backend.virtuaas.com/"
     },
     "hiring_developer": {
       "anchor": "Est\u00e1gio de desenvolvedor",
@@ -79,7 +79,7 @@
     },
     "hiring_frontend": {
       "anchor": "Desenvolvedor Frontend",
-      "url": "http://frontend.upplication.com/"
+      "url": "http://frontend.virtuaas.com/"
     },
     "hiring_marketing": {
       "anchor": "Est\u00e1gio de marketing",
@@ -87,7 +87,7 @@
     },
     "instagram": {
       "anchor": "Instagram",
-      "url": "http://www.instagram.com/upplication"
+      "url": "http://www.instagram.com/VirtuaaS"
     },
     "jobs": {
       "anchor": "Estamos a contratar!",
@@ -95,7 +95,7 @@
     },
     "linkedin": {
       "anchor": "Linkedin",
-      "url": "http://www.linkedin.com/company/upplication"
+      "url": "http://www.linkedin.com/company/VirtuaaS"
     },
     "media_kit": {
       "anchor": "Imprensa",
@@ -103,11 +103,11 @@
     },
     "nubo": {
       "anchor": "NUBO",
-      "url": "http://www.ono.es/microsite-nubo/nubo-upplication/"
+      "url": "http://www.ono.es/microsite-nubo/nubo-VirtuaaS/"
     },
     "partners": {
       "anchor": "Torna-te distribuidor",
-      "url": "http://www.upplication.com/distribuidores/conviertete-en-distribuidor-de-apps.html"
+      "url": "http://www.virtuaas.com/distribuidores/conviertete-en-distribuidor-de-apps.html"
     },
     "pricing": {
       "anchor": "Pre\u00e7os",
@@ -123,7 +123,7 @@
     },
     "social_media_btns": {
       "facebook": "",
-      "twitter": "https://twitter.com/upplication"
+      "twitter": "https://twitter.com/VirtuaaS"
     },
     "team": {
       "anchor": "Equipa",
@@ -133,7 +133,7 @@
       "help": "Ajuda:",
       "legal": "Aviso legal:",
       "misc": "Miscel\u00e2nea:",
-      "uppl": "Upplication:"
+      "uppl": "VirtuaaS:"
     },
     "tos": {
       "anchor": "Condi\u00e7\u00f5es legais",
@@ -145,15 +145,15 @@
     },
     "twitter": {
       "anchor": "Twitter",
-      "url": "http://www.twitter.com/upplication"
+      "url": "http://www.twitter.com/VirtuaaS"
     },
     "youtube": {
       "anchor": "Youtube",
-      "url": "http://youtube.com/upplication"
+      "url": "http://youtube.com/VirtuaaS"
     }
   },
   "footer": {
-    "brand_copy": "Upplication",
+    "brand_copy": "VirtuaaS",
     "byfibonad": "by Fibonad",
     "community": "Sociedade",
     "company": "Empresa",
@@ -217,8 +217,8 @@
     "enter": "Entrar",
     "free_trial": "Experimente",
     "logo": {
-      "title": "Logotipo da Upplication",
-      "title_xmas": "Upplication logo de Natal",
+      "title": "Logotipo da VirtuaaS",
+      "title_xmas": "VirtuaaS logo de Natal",
       "url": "@@config.base_path/pt/"
     },
     "menu": "menu",
@@ -262,19 +262,19 @@
       },
       "prices": "Pre\u00e7os"
     },
-    "support_mail": "<a href='mailto:soporte@upplication.com'>suporte@upplication.com</a>",
+    "support_mail": "<a href='mailto:soporte@virtuaas.com'>suporte@virtuaas.com</a>",
     "telephone": "+34 917 958 203"
   },
   "common": {
     "customer_service": {
       "email": {
-        "alt_tag": "Enviar email a Upplication",
-        "link": "mailto:info@upplication.com",
-        "text": "info@upplication.com",
-        "title": "info@upplication.com"
+        "alt_tag": "Enviar email a VirtuaaS",
+        "link": "mailto:info@virtuaas.com",
+        "text": "info@virtuaas.com",
+        "title": "info@virtuaas.com"
       },
       "phone": {
-        "alt_tag": "Ligar para o suporte t\u00e9cnico de Upplication",
+        "alt_tag": "Ligar para o suporte t\u00e9cnico de VirtuaaS",
         "link": "tel:917958203",
         "text": "telf: 917 958 203",
         "text_tel": "<span>917 958 203</span>",
@@ -289,19 +289,19 @@
   },
   "testimonials": {
     "client1": {
-      "quote": "Precis\u00e1vamos de um canal que nos aproximasse de nossos clientes para comunicar nossos novos produtos e ter uma vitrine 24h 365 dias e Upplication que encontramos muito \u00fatil e simples.",
+      "quote": "Precis\u00e1vamos de um canal que nos aproximasse de nossos clientes para comunicar nossos novos produtos e ter uma vitrine 24h 365 dias e VirtuaaS que encontramos muito \u00fatil e simples.",
       "name": "Sandra e Paloma, <span>Asis & Gross</span>",
       "more": "Mais sobre Asis & Gross",
       "url": "@@config.base_path/pt/asis-and-gross/"
     },
     "client2": {
-      "quote": "A id\u00e9ia de criar um aplicativo \u00e9 mais \u00f3bvia: os clientes t\u00eam o fisio no bolso por 24 horas. Al\u00e9m disso, optamos pela Upplication por seu pre\u00e7o e sua simplicidade de uso.",
+      "quote": "A id\u00e9ia de criar um aplicativo \u00e9 mais \u00f3bvia: os clientes t\u00eam o fisio no bolso por 24 horas. Al\u00e9m disso, optamos pela VirtuaaS por seu pre\u00e7o e sua simplicidade de uso.",
       "name": "Pablo, <span>Fisiohogar</span>",
       "more": "Mais sobre Fisiohogar",
       "url": "@@config.base_path/pt/fisiohogar/"
     },
     "client3": {
-      "quote": "Agora \u00e9 ainda mais f\u00e1cil criar aplicativos com o Upplication, voc\u00ea n\u00e3o precisa programar nada, apenas o link da sua P\u00e1gina de Neg\u00f3cios do Facebook e voc\u00ea ter\u00e1 a aplica\u00e7\u00e3o m\u00f3vel da sua empresa!",
+      "quote": "Agora \u00e9 ainda mais f\u00e1cil criar aplicativos com o VirtuaaS, voc\u00ea n\u00e3o precisa programar nada, apenas o link da sua P\u00e1gina de Neg\u00f3cios do Facebook e voc\u00ea ter\u00e1 a aplica\u00e7\u00e3o m\u00f3vel da sua empresa!",
       "name": "Descobrir <span>Facebook onboarding</span>",
       "more": "Mais sobre Facebook onboarding",
       "url": "https://youtu.be/NyRm-ttbKeM"
@@ -310,8 +310,8 @@
   },
   "modal": {
     "button": {
-      "email": "mailto:info@upplication.com",
-      "support_mail": "info@upplication.com",
+      "email": "mailto:info@virtuaas.com",
+      "support_mail": "info@virtuaas.com",
       "telephone": "+34 917 958 203",
       "telf": "tel:0034917958203"
     },
@@ -330,12 +330,12 @@
   "ourclients": {
     "client1": {
       "alt": "Logotipo ABC",
-      "title": "Upplication no jornal ABC",
-      "url": "http://www.abc.es/tecnologia/moviles-aplicaciones/20140315/abci-upplication-wordpress-creacion-201403141400.html"
+      "title": "VirtuaaS no jornal ABC",
+      "url": "http://www.abc.es/tecnologia/moviles-aplicaciones/20140315/abci-VirtuaaS-wordpress-creacion-201403141400.html"
     },
     "client2": {
       "alt": "Logotipo El Economista",
-      "title": "Upplication em El Economista",
+      "title": "VirtuaaS em El Economista",
       "url": "http://www.eleconomista.es/emprendedores-pymes/noticias/6747454/05/15/La-transformacion-digital-y-la-innovacion-claves-para-la-competitividad-de-las-pymes-.html"
     },
     "client3": {
@@ -345,12 +345,12 @@
     },
     "client4": {
       "alt": "Logotipo EFE: Empreende",
-      "title": "Upplication em EFE: Empreende, not\u00edcias sobre empresas e empreendedores",
-      "url": "http://www.efeemprende.com/noticia/los-emprendedores-pueden-crear-propias-apps-sin-programar-upplication/"
+      "title": "VirtuaaS em EFE: Empreende, not\u00edcias sobre empresas e empreendedores",
+      "url": "http://www.efeemprende.com/noticia/los-emprendedores-pueden-crear-propias-apps-sin-programar-VirtuaaS/"
     },
     "client5": {
       "alt": "Logotipo Telef\u00f3nica",
-      "title": "Upplication em Open Future da Telef\u00f3nica",
+      "title": "VirtuaaS em Open Future da Telef\u00f3nica",
       "url": "https://www.openfuture.org/pt/new/fideliza-a-los-clientes-de-tu-startup-creando"
     },
     "client6": {
@@ -361,12 +361,12 @@
     "client7": {
       "alt": "Logotipo wwwhat\u00b4s new",
       "title": "wwwhat\u00b4s new, not\u00edcias sobre tecnologias web e apps",
-      "url": "http://wwwhatsnew.com/2013/10/21/upplication-para-crear-apps-de-comercio-electronico-sin-saber-programar"
+      "url": "http://wwwhatsnew.com/2013/10/21/VirtuaaS-para-crear-apps-de-comercio-electronico-sin-saber-programar"
     },
     "client8": {
       "alt": "TVE logo",
       "title": "TVE interview in Zoom Net show",
-      "url": "http://www.rtve.es/alacarta/videos/zoom-net/zoom-net-upplication-huawei-p9-uncharted-4/3571439/"
+      "url": "http://www.rtve.es/alacarta/videos/zoom-net/zoom-net-VirtuaaS-huawei-p9-uncharted-4/3571439/"
     },
     "client9": {
       "alt": "La Raz\u00f3n logo",
@@ -406,7 +406,7 @@
     "try_it": "Experimenta-o gr\u00e1tis, tens 15 dias",
     "warning": {
       "ajax": "Uuups..., houve um problema",
-      "ajax_msg": "O registo n\u00e3o se p\u00f4de completar, por favor tenta novamente ou escreve-nos para <a href='mailto:soporte@upplication.com'>soporte@upplication.com</a>",
+      "ajax_msg": "O registo n\u00e3o se p\u00f4de completar, por favor tenta novamente ou escreve-nos para <a href='mailto:soporte@virtuaas.com'>soporte@virtuaas.com</a>",
       "name": "O nome da sua app tem de ter entre 3 e 32 caracteres e n\u00e3o pode come\u00e7ar por um n\u00famero",
       "password": "O tamanho m\u00ednimo para a senha \u00e9 de 8 caracteres."
     }

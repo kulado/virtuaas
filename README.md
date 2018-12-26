@@ -1,8 +1,8 @@
-# Upplication Landing
-[![Build Status](https://travis-ci.org/Upplication/landing.svg?branch=develop)](https://travis-ci.org/Upplication/landing)
+# VirtuaaS Landing
+[![Build Status](https://travis-ci.org/kulado/virtuaas.svg?branch=develop)](https://travis-ci.org/kulado/virtuaas)
 
 ```
-$ git clone git@github.com:Upplication/landing.git
+$ git clone git@github.com:kulado/virtuaas.git
 $ npm install
 $ npm start
 ```
@@ -17,7 +17,7 @@ Also, it's recomendend (but not mandatory) installing
 
 ## Installation
 ```
-$ git clone git@github.com:Upplication/landing.git
+$ git clone git@github.com:kulado/virtuaas.git
 $ npm install
 ```
 
@@ -93,7 +93,7 @@ You can override this vars passing the concrete key as parameter with the prefix
      - _keywords: seo
      - _priority: sitemap priority
 
-We use Oneskyapp.com to translate/review the texts. You can use the task: grunt oneskyExport to override the lang with the translations in: https://upplication.oneskyapp.com (you need the access key and secret key)
+We use Oneskyapp.com to translate/review the texts. You can use the task: grunt oneskyExport to override the lang with the translations in: https://virtuaas.oneskyapp.com (you need the access key and secret key)
 
 Notes:
 

@@ -1,7 +1,7 @@
 {
-  "name": "landing-upplication",
+  "name": "virtuaas-landing",
   "version": "3.10.2",
-  "author": "Upplication Team <javier.arnaiz@upplication.com>",
+  "author": "VirtuaaS Team <eric@virtuaas.com>",
   "scripts": {
     "start": "gulp",
     "deploy": "gulp deploy"
@@ -9,15 +9,15 @@
   "contributors": [
     {
       "name": "Javier Arnáiz",
-      "email": "javier.arnaiz@upplication.com"
+      "email": "javier.arnaiz@virtuaas.com"
     },
     {
       "name": "Javier Lorenzo",
-      "email": "javier.lorenzo@upplication.com"
+      "email": "javier.lorenzo@virtuaas.com"
     },
     {
       "name": "Juan José Herrero Barbosa",
-      "email": "juan.herrero@upplication.com"
+      "email": "juan.herrero@virtuaas.com"
     },
     {
       "name": "Marcos Rojas Martin",

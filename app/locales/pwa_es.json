@@ -1,7 +1,7 @@
 {
   "pwa": {
     "_keywords": "PWA, Progressive Web App, app, aplicación, creador de apps, app para empresas, creador de apps online, crear app sin saber programar, crear app, crear app android, crear app iphone, crear aplicacion, crear app online, crear app movil",
-    "_meta_description": "Qué es una Progressive Web App en Upplication: el creador de aplicaciones para empresas. Sin programar, fácil y en pocos minutos",
+    "_meta_description": "Qué es una Progressive Web App en VirtuaaS: el creador de aplicaciones para empresas. Sin programar, fácil y en pocos minutos",
     "_meta_title": "PWA: Progressive Web App",
     "_url": "/es/progressive-web-app/",
     "title": "Progressive Web App",
@@ -65,7 +65,7 @@
       "android": "Cómo instalar una PWA en Android Chrome",
       "description": "Las <b>Progressive Web Apps</b> se pueden instalar de forma instantánea en las pantallas de inicio de los dispositivos móviles, sin necesidad de visitar los markets <em>(Apple Store y Google Play)</em> :",
       "how": [
-        "<span>1.</span> <b>Abrir la PWA</b> en el navegador. La URL simpre estará formada por:</br> <span>nombre de la app + upplication.com</span> <em>(cafedelrey.upplication.com)</em>",
+        "<span>1.</span> <b>Abrir la PWA</b> en el navegador. La URL simpre estará formada por:</br> <span>nombre de la app + virtuaas.com</span> <em>(cafedelrey.virtuaas.com)</em>",
         "<span>2.</span> <b>Pulsar el botón</b> <em>'Añadir a página de inicio'</em> cuando aparezca la ventana emergente.",
         "<span>3.</span> <b>Buscar el icono</b> en el móvil y acceder a la app."
       ]
@@ -78,7 +78,7 @@
       "maintitle": "¡Descárgate esta infografía!",
       "subtitle": "Esta infografía está disponible en formato .PDF",
       "btn": "Descargar PDF",
-      "src": "@@config.base_path/images/pwa/upplication_PWA_2018_es-ES.pdf"
+      "src": "@@config.base_path/images/pwa/VirtuaaS_PWA_2018_es-ES.pdf"
     }
   }
 }

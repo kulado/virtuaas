@@ -2,5 +2,5 @@
 
 User-agent: *
 
-Sitemap: https://www.upplication.com/sitemap.xml
-Sitemap: http://www.upplication.com/sitemap.xml
+Sitemap: https://www.virtuaas.com/sitemap.xml
+Sitemap: http://www.virtuaas.com/sitemap.xml

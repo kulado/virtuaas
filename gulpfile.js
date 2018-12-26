@@ -78,8 +78,8 @@ var locales = _locales();
  * Example:
  * {
  *  "about_us": {
- *      "es": "www.upplication.com/sobre-nosotros",
- *      "en": "www.upplication.com/about-us"
+ *      "es": "www.virtuaas.com/sobre-nosotros",
+ *      "en": "www.virtuaas.com/about-us"
  *  }
  * }
  * Throw error if some url are duplicated in some other lang or view.
@@ -149,7 +149,7 @@ gulp.task('vendor:js', ['bower'], function() {
 gulp.task('vendor:css', ['bower'], function() {
     var baseTask =
         gulp.src([
-            './dist/bower_components/upplication-icons/dist/upplication-icons.css',
+            './dist/bower_components/virtuaas-icons/dist/virtuaas-icons.css',
             './dist/bower_components/materialize/dist/css/materialize.min.css',
             './dist/bower_components/owl.carousel/dist/assets/owl.carousel.min.css',
             './dist/bower_components/aos/dist/aos.css'
@@ -161,7 +161,7 @@ gulp.task('vendor:css', ['bower'], function() {
 
     var vodafoneTask =
         gulp.src([
-            './dist/bower_components/upplication-icons/dist/upplication-icons.css',
+            './dist/bower_components/virtuaas-icons/dist/virtuaas-icons.css',
             './dist/bower_components/materialize/dist/css/materialize.min.css'
             ])
             .pipe(gutil.env.type !== 'production' ? sourcemaps.init() : gutil.noop())

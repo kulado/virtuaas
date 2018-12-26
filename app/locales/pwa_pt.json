@@ -65,7 +65,7 @@
       "android": "Como é feita a instalação de um PWA no Android Chrome",
       "description": "Os <b>Progressive Web Apps</b> <em>(aplicativos progressivos para web)</em> podem ser instalados instantaneamente nas telas iniciais dos dispositivos móveis, sem precisar acessar uma loja de aplicativos <em>(Apple Store y Google Play)</em>:",
       "how": [
-        "<span>1.</span> <b>Abrir o PWA</b> no browser. A URL sempre está formada por:</br> <span>nome do app + upplication.com</span> <em>(cafedelrey.upplication.com)</em> :",
+        "<span>1.</span> <b>Abrir o PWA</b> no browser. A URL sempre está formada por:</br> <span>nome do app + virtuaas.com</span> <em>(cafedelrey.virtuaas.com)</em> :",
         "<span>2.</span> <b> Clicar no botão</b> <em>'Adicionar à Tela Início'</em> quando apareça a pop up <em>(modal dialog)</em>.",
         "<span>3.</span> <b>Procurar o ícone</b> no seu smartphone e aceder ao app."
       ]
@@ -78,7 +78,7 @@
       "maintitle": "Descarregue esta infografia!",
       "subtitle": "Esta infografia está disponível em formato .PDF",
       "btn": "Descarregue o PDF",
-      "src": "@@config.base_path/images/pwa/upplication_PWA_2018_pt-PT.pdf"
+      "src": "@@config.base_path/images/pwa/VirtuaaS_PWA_2018_pt-PT.pdf"
     }
   }
 }
