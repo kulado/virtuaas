@@ -153,7 +153,7 @@
   },
   "footer": {
     "brand_copy": "VirtuaaS",
-    "byfibonad": "by Fibonad",
+    "byfibonad": "by Kulado Inc.",
     "community": "Comunidad",
     "company": "Compañía",
     "cookies": "We use cookies: help us provide a better browsing experience. By using our website, you agree that we may store cookies and access them on your device. Form more information, see our <a href='@@config.base_path/en/terms/#cookies-policy'>Cookies policy</a>.",
@@ -171,7 +171,7 @@
       },
       "fibonad": {
         "title": "Fibonad, a global advertising media company",
-        "url": "http://www.fibonad.com/"
+        "url": "http://www.kulado.com/"
       },
       "wayra": {
         "title": "Wayra, Telefónica's startup accelerator",
@@ -182,7 +182,7 @@
         "url": "http://www.freepik.com/"
       }
     },
-    "signature": "Designed and assembled in Madrid",
+    "signature": "Created in Austin, TX",
     "tos": {
       "cookies": {
         "title": "Use of Cookies",

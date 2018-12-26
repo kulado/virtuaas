@@ -153,7 +153,7 @@
   },
   "footer": {
     "brand_copy": "VirtuaaS",
-    "byfibonad": "by Fibonad",
+    "byfibonad": "by Kulado Inc.",
     "community": "Komunitas",
     "company": "Perusahaan",
     "cookies": "Jika Anda menutup jendela ini Anda menerima kami <a href='@@config.base_path/terms-aplicateca/'>Penggunaan Cookies.</a>.",
@@ -171,7 +171,7 @@
       },
       "fibonad": {
         "title": "Fibonad, a global advertising media company",
-        "url": "http://www.fibonad.com/"
+        "url": "http://www.kulado.com/"
       },
       "wayra": {
         "title": "Wayra, Telefónica's startup accelerator",
