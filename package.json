@@ -4,7 +4,7 @@
   "author": "VirtuaaS Team <eric@virtuaas.com>",
   "scripts": {
     "start": "gulp",
-    "deploy": "gulp deploy"
+    "deploy": "npm install && gulp deploy --type=production && npm start"
   },
   "contributors": [
     {
